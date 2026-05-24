@@ -1,6 +1,6 @@
 # ✨ Wanderlux
 
-A modern travel website built using **HTML5** and **CSS3** for frontend practice and UI design improvement.
+A modern travel website built using **HTML** and **CSS** for frontend practice and UI design improvement.
 
 ---
 
