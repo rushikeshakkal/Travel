@@ -1,25 +1,69 @@
-# Wanderlux
+# ✨ Wanderlux
 
-Wanderlux is a modern travel website created for frontend practice using HTML and CSS. The project showcases breathtaking destinations around the world with a cinematic UI design, smooth animations, gradient effects.
+A modern travel website built using **HTML5** and **CSS3** for frontend practice and UI design improvement.
 
-## Features
+---
 
-- Cinematic hero section
-- Gradient buttons and text effects
-- Smooth hover animations
-- Featured destinations section
-- Flexbox and CSS Grid layouts
-- Dark overlay background effects
+## 🌍 About the Project
 
-## Technologies Used
+Wanderlux is a cinematic travel-themed landing page that showcases beautiful destinations around the world with modern web design techniques.  
 
-- HTML
-- CSS
-
-## Purpose of the Project
-
-This project was built to improve frontend web development skills, including:
-- CSS animations
-- Flexbox and Grid
+The project focuses on:
 - Modern UI styling
-- Layout structuring
+- CSS animations
+- Flexbox & Grid
+- Gradient effects
+- Hover interactions
+
+---
+
+## 🚀 Features
+
+- 🎬 Cinematic hero section
+- 🌄 Destination showcase cards
+- 🎨 Gradient buttons & text
+- ✨ Hover animations
+- 🌙 Dark image overlay effects
+- 📐 CSS Grid & Flexbox layouts
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML | Structure |
+| CSS | Styling & Animations |
+
+---
+
+## 📂 Project Structure
+
+```bash
+Wanderlux/
+│
+├── index.html
+├── style.css
+├── images/
+└── README.md
+```
+
+---
+
+## 🎯 Purpose
+
+This project was created for practicing:
+- Frontend development
+- Modern webpage layouts
+- CSS positioning
+
+---
+
+## 🔗 Live Demo
+
+```bash
+https://yourusername.github.io/wanderlux/
+```
+
+---
+
